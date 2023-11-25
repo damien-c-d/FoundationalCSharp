@@ -1,0 +1,14 @@
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\bin\Debug\net8.0\CompleteTheChallenge.exe
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\bin\Debug\net8.0\CompleteTheChallenge.deps.json
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\bin\Debug\net8.0\CompleteTheChallenge.runtimeconfig.json
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\bin\Debug\net8.0\CompleteTheChallenge.dll
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\bin\Debug\net8.0\CompleteTheChallenge.pdb
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\CompleteTheChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\CompleteTheChallenge.AssemblyInfoInputs.cache
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\CompleteTheChallenge.AssemblyInfo.cs
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\CompleteTheChallenge.csproj.CoreCompileInputs.cache
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\CompleteTheChallenge.dll
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\refint\CompleteTheChallenge.dll
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\CompleteTheChallenge.pdb
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\CompleteTheChallenge.genruntimeconfig.cache
+E:\Projects\FoundationalCSharp\CompleteTheChallenge\obj\Debug\net8.0\ref\CompleteTheChallenge.dll
