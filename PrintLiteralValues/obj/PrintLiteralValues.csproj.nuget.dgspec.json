@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\FoundationalCSharp\\HelloWorld\\HelloWorld.csproj": {}
+    "E:\\Projects\\FoundationalCSharp\\PrintLiteralValues\\PrintLiteralValues.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\FoundationalCSharp\\HelloWorld\\HelloWorld.csproj": {
+    "E:\\Projects\\FoundationalCSharp\\PrintLiteralValues\\PrintLiteralValues.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\FoundationalCSharp\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "E:\\Projects\\FoundationalCSharp\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "E:\\Projects\\FoundationalCSharp\\PrintLiteralValues\\PrintLiteralValues.csproj",
+        "projectName": "PrintLiteralValues",
+        "projectPath": "E:\\Projects\\FoundationalCSharp\\PrintLiteralValues\\PrintLiteralValues.csproj",
         "packagesPath": "C:\\Users\\Damien\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\FoundationalCSharp\\HelloWorld\\obj\\",
+        "outputPath": "E:\\Projects\\FoundationalCSharp\\PrintLiteralValues\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

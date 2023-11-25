@@ -1,0 +1,15 @@
+E:\Projects\FoundationalCSharp\PrintLiteralValues\bin\Debug\net8.0\PrintLiteralValues.exe
+E:\Projects\FoundationalCSharp\PrintLiteralValues\bin\Debug\net8.0\PrintLiteralValues.deps.json
+E:\Projects\FoundationalCSharp\PrintLiteralValues\bin\Debug\net8.0\PrintLiteralValues.runtimeconfig.json
+E:\Projects\FoundationalCSharp\PrintLiteralValues\bin\Debug\net8.0\PrintLiteralValues.dll
+E:\Projects\FoundationalCSharp\PrintLiteralValues\bin\Debug\net8.0\PrintLiteralValues.pdb
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.AssemblyInfoInputs.cache
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.AssemblyInfo.cs
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.csproj.CoreCompileInputs.cache
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.sourcelink.json
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.dll
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\refint\PrintLiteralValues.dll
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.pdb
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\PrintLiteralValues.genruntimeconfig.cache
+E:\Projects\FoundationalCSharp\PrintLiteralValues\obj\Debug\net8.0\ref\PrintLiteralValues.dll
