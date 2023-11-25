@@ -1,0 +1,15 @@
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\bin\Debug\net8.0\PerformBasicStringFormatting.exe
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\bin\Debug\net8.0\PerformBasicStringFormatting.deps.json
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\bin\Debug\net8.0\PerformBasicStringFormatting.runtimeconfig.json
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\bin\Debug\net8.0\PerformBasicStringFormatting.dll
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\bin\Debug\net8.0\PerformBasicStringFormatting.pdb
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.AssemblyInfoInputs.cache
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.AssemblyInfo.cs
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.csproj.CoreCompileInputs.cache
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.sourcelink.json
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.dll
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\refint\PerformBasicStringFormatting.dll
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.pdb
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\PerformBasicStringFormatting.genruntimeconfig.cache
+E:\Projects\FoundationalCSharp\PerformBasicStringFormatting\obj\Debug\net8.0\ref\PerformBasicStringFormatting.dll
