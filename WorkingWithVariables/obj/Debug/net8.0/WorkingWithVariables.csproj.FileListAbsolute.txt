@@ -1,0 +1,15 @@
+E:\Projects\FoundationalCSharp\WorkingWithVariables\bin\Debug\net8.0\WorkingWithVariables.exe
+E:\Projects\FoundationalCSharp\WorkingWithVariables\bin\Debug\net8.0\WorkingWithVariables.deps.json
+E:\Projects\FoundationalCSharp\WorkingWithVariables\bin\Debug\net8.0\WorkingWithVariables.runtimeconfig.json
+E:\Projects\FoundationalCSharp\WorkingWithVariables\bin\Debug\net8.0\WorkingWithVariables.dll
+E:\Projects\FoundationalCSharp\WorkingWithVariables\bin\Debug\net8.0\WorkingWithVariables.pdb
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.AssemblyInfoInputs.cache
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.AssemblyInfo.cs
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.csproj.CoreCompileInputs.cache
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.sourcelink.json
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.dll
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\refint\WorkingWithVariables.dll
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.pdb
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\WorkingWithVariables.genruntimeconfig.cache
+E:\Projects\FoundationalCSharp\WorkingWithVariables\obj\Debug\net8.0\ref\WorkingWithVariables.dll
