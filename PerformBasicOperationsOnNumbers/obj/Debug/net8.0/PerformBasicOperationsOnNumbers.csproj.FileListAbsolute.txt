@@ -1,0 +1,15 @@
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\bin\Debug\net8.0\PerformBasicOperationsOnNumbers.exe
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\bin\Debug\net8.0\PerformBasicOperationsOnNumbers.deps.json
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\bin\Debug\net8.0\PerformBasicOperationsOnNumbers.runtimeconfig.json
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\bin\Debug\net8.0\PerformBasicOperationsOnNumbers.dll
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\bin\Debug\net8.0\PerformBasicOperationsOnNumbers.pdb
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.AssemblyInfoInputs.cache
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.AssemblyInfo.cs
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.csproj.CoreCompileInputs.cache
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.sourcelink.json
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.dll
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\refint\PerformBasicOperationsOnNumbers.dll
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.pdb
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\PerformBasicOperationsOnNumbers.genruntimeconfig.cache
+E:\Projects\FoundationalCSharp\PerformBasicOperationsOnNumbers\obj\Debug\net8.0\ref\PerformBasicOperationsOnNumbers.dll
